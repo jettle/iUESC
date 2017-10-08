@@ -1,5 +1,5 @@
 # iUESC
-An online education paid website 
+>>An online education paid website 
 
 1.项目描述：
 
@@ -15,7 +15,7 @@ An online education paid website
 
 4.项目说明：
 
->>iuesc's Readme.text {
+">iuesc's Readme.text {
 1.Question's outlines : 
 @author : jettle 2017-08-29
 @title : javascript如何获取EL表达式中的值？
@@ -24,7 +24,7 @@ An online education paid website
 
 2.JSP's codes :
        <li>
-               <a href="login.jsp" id="LoginText"><span class="glyphicon glyphicon-user"></span><strong id="LoginStrong">注册/登录</strong>${sessionScope.login_user.name}</a>
+               <a href="login.jsp" id="LoginText"><span class="glyphicon glyphicon-user"></span><strong id="LoginStrong"> 注册/登录</strong>${sessionScope.login_user.name}</a>
                <script type="text/javascript">
                window.onload = function(){
                  var num = "${sessionScope.login_user.name}";
@@ -42,7 +42,7 @@ An online education paid website
 }
 
 
->>iuesc's Readme.text {
+">iuesc's Readme.text {
     
 1.Question's outline : 
 @author : jettle 2017-08-29
@@ -52,7 +52,7 @@ An online education paid website
 
 2.JSP's codes : 
 <li>
-               <a href="login.jsp" id="LoginText"><span class="glyphicon glyphicon-user"></span><strong id="LoginStrong">注册/登录</strong>${sessionScope.login_user.name}</a>
+               <a href="login.jsp" id="LoginText"><span class="glyphicon glyphicon-user"></span><strong id="LoginStrong"> 注册/登录</strong>${sessionScope.login_user.name}</a>
                <script type="text/javascript">
                window.onload = function(){
                  var num = "${sessionScope.login_user.name}";
